@@ -7,6 +7,7 @@ function validateEmail(email) {
   return false;
 }
 
+
 // validate a password on complexity requirements
 function validatePassword(password) {
   return password.length >= 8;
